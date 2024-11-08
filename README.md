@@ -127,14 +127,15 @@
 </h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/gandevinay-sai-a019a8158/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="75" alt="LinkedIn Logo" />
     </a>
     <a href="https://leetcode.com/u/vinay1998/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode Logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75" height="75" alt="LeetCode Logo" />
     </a>
 </div>
 
 
 <!-- View Counter -->
 <img align="left" src="https://komarev.com/ghpvc/?username=vinaysai1998&style=for-the-badge&color=brightgreen">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="27">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200">
