@@ -1,1 +1,48 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"> <h1 align="center"><b>Hello, I'm Gande Vinay <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></b></h1> <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3> <p align="left"><b> I'm a dedicated software developer with 2 years of experience in full-stack development and software quality assurance, passionate about driving high standards in quality, testing efficiency, and collaboration. </b><br><br> - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Proficient in Java, API development, CI/CD, and test automation<br> - <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently advancing my knowledge in software quality and automation<br> - <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="20px"> Fun Fact: I enjoy optimizing code and system performance<br> </p> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20"> My Stats :</h3> <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysaigande&hide_progress=true&theme=shadow_green" height="170vh" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=vinaysaigande&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5&order=3" height="170vh"/> </div> <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vinaysaigande&theme=shadow_green&show_icons=true&rank_icon=github" height="170vh"/> </div> <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"> Languages and Tools</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> </div> <h3> <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" height="20">  Let's Connect!</h3> <div align="left"> <a href="https://www.linkedin.com/in/gandevinay-sai-a019a8158/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <a href="https://github.com/vinaysaigande" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" /> </a> <a href="https://leetcode.com/vinaysaigande/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="LeetCode logo" /> </a> </div>
+<h1 align="center"><b>Hello, I'm Vinay Gande <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></b></h1>
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
+<p align="left"><b>
+    I am an Entry-level Software Developer with 2 years of experience in Java/J2EE, front-end migration, RESTful APIs, CI/CD, and system administration.<br><br>
+    - Experienced in designing, developing, testing, and implementing web-based and client/server applications.<br>
+    - Passionate about solving complex challenges and optimizing performance.<br>
+    - Hands-on experience with both Linux and Windows environments.
+</b></p>
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20"> Experience</h3>
+<ul align="left">
+    <li><b>Broadridge Financial Solutions, India - Member Technical</b> <br>December 2020 - August 2022</li>
+    <ul>
+        <li>Led frontend migration to Angular, enhancing performance by 25% and enabling faster feature development.</li>
+        <li>Developed RESTful APIs with Spring and Hibernate, managing 10,000+ daily requests and improving response times by 30%.</li>
+        <li>Implemented CI/CD pipeline with Jenkins and GitHub, reducing deployment time by 40%.</li>
+        <li>Configured and maintained Linux and Windows environments, achieving 99.9% uptime.</li>
+    </ul>
+</ul>
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"> Skills</h3>
+<ul align="left">
+    <li>Languages: Java, Python, JavaScript, C</li>
+    <li>Web Technologies: HTML5, CSS3, XML, JSON, React, Angular, Node.js, REST APIs</li>
+    <li>Frameworks: Spring, Spring Boot, Hibernate</li>
+    <li>Databases: MySQL, Oracle, MongoDB, PL/SQL</li>
+    <li>Tools: Git, GitHub, Maven, Gradle, Docker, Jenkins</li>
+</ul>
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="20"> Education</h3>
+<ul align="left">
+    <li><b>MS in Information Systems</b> - Wilmington University, Delaware (August 2022 - May 2024) GPA: 3.2</li>
+    <li><b>BE in Computer Science and Engineering</b> - Sathyabama Institute of Science and Technology, India (July 2016 - May 2020) GPA: 3.26</li>
+</ul>
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15"> Socials:</h3>
+<div align="left">
+    <a href="https://www.linkedin.com/in/gandevinay-sai-a019a8158/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://github.com/vinaysai1998" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+    </a>
+    <a href="https://leetcode.com/u/vinay1998/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+    </a>
+</div>
