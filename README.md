@@ -6,7 +6,7 @@
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
 <p align="left"><b>
-    I'm an Entry-level Software Developer with 2 years of experience in Java/J2EE, front-end migration, RESTful APIs, CI/CD, and system administration.<br><br>
+    I'm an Entry-level Software Developer with 5 years of experience in Java/J2EE, front-end migration, RESTful APIs, CI/CD, and system administration.<br><br>
     - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Experienced in designing, developing, testing, and implementing web-based and client/server applications.<br>
     - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> Passionate about solving complex challenges and optimizing performance.<br>
     - <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Proficient in Linux and Windows system administration, including scripting and troubleshooting.
