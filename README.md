@@ -18,14 +18,7 @@
 <!-- Experience Section -->
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20"> Professional Experience</h3>
 <ul align="left">
-    <li><b>Broadridge Financial Solutions, India - Member Technical</b> <br>December 2020 - August 2022</li>
-    <ul>
-        <li>Collaborated on "ACCESS-DATA," a mutual fund data solution, focusing on data acquisition, transformation, and storage.</li>
-        <li>Led migration of frontend to Angular, boosting performance by 25% and accelerating feature development.</li>
-        <li>Developed RESTful APIs using Spring and Hibernate, processing 10,000+ daily requests with 30% improved response time.</li>
-        <li>Configured CI/CD with Jenkins and GitHub, reducing deployment time by 40%.</li>
-        <li>Maintained 99.9% uptime in Linux and Windows environments, optimizing deployment processes across platforms.</li>
-    </ul>
+  
 </ul>
 
 <!-- Animated Stats Section -->
