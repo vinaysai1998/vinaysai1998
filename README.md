@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 <h3 align="left">🌟 About Me</h3>
 <p align="left"><b>
-    I'm a Full Stack Developer with 8+ years of experience specializing in **Java/J2EE, Microservices, Cloud Technologies (AWS), CI/CD, and Frontend Development (React.js, Angular)**. 🚀<br><br>
+    I'm a Full Stack Developer experience specializing in **Java/J2EE, Microservices, Cloud Technologies (AWS), CI/CD, and Frontend Development (React.js, Angular)**. 🚀<br><br>
     - 🔥 Skilled in designing, developing, testing, and implementing high-performance enterprise applications.<br>
     - 🧠 Passionate about solving complex challenges, optimizing performance, and implementing DevOps automation.<br>
     - ☁️ Proficient in **Microservices, Spring Boot, AWS, and Kubernetes**.
