@@ -39,7 +39,6 @@
 <!-- Education Section -->
 <h3 align="left">🎓 Education</h3>
 <ul align="left">
-    <li>📚 <b>MS in Information Systems</b> - Wilmington University, DE </li>
     <li>📚 <b>BE in Computer Science & Engineering</b> - Sathyabama University, India </li>
 </ul>
 
